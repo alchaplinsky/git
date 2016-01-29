@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Joe Satriani", "image": "satriani.jpg", "lessons": [
+      { "name": "Mixing Major and Minor", "id": "_qaV6cn6eEg", "duration": "5:09" },
+      { "name": "How to Build Melody", "id": "GAckLGgA86o", "duration": "6:33" }
+    ]
+  },
+  { "id": 2, "name": "Steve Vai", "image": "vai.jpg", "lessons": [] },
+  { "id": 3, "name": "Guthrie Govan", "image": "govan.jpg", "lessons": [] },
+  { "id": 4, "name": "Glenn Proudfoot", "image": "proudfoot.jpg", "lessons": [] }
+]
