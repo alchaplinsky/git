@@ -1,10 +1,136 @@
 [
-  { "id": 1, "name": "Joe Satriani", "image": "satriani.jpg", "lessons": [
-      { "name": "Mixing Major and Minor", "id": "_qaV6cn6eEg", "duration": "5:09" },
-      { "name": "How to Build Melody", "id": "GAckLGgA86o", "duration": "6:33" }
+  {
+    "id": 1,
+    "name": "Joe Satriani",
+    "image": "satriani.jpg",
+    "lessons": [
+      {
+        "id": "_qaV6cn6eEg",
+        "name": "Mixing Major and Minor",
+        "duration": "5:09"
+      },
+      {
+        "id": "GAckLGgA86o",
+        "name": "How to Build Melody",
+        "duration": "6:33"
+      },
+      {
+        "id": "0--tOW47xio",
+        "name": "Guide to Building Chords from “Stacked” Fourths",
+        "duration": "4:49"
+      },
+      {
+        "id": "F40RH4467GI",
+        "name": "How to Play Rhythm Guitar Like Jimi Hendrix",
+        "duration": "5:11"
+      },
+      {
+        "id": "wQFNdN9ZzTA",
+        "name": "Using Different Styles to Improvise",
+        "duration": "8:08"
+      },
+      {
+        "id": "AsVYfwlNLWU",
+        "name": "Legato technique (TG235)",
+        "duration": "2:04"
+      },
+      {
+        "id": "dVvrE6ofgqA",
+        "name": "Cascading legato runs (TG235)",
+        "duration": "2:07"
+      },
+      {
+        "id": "Z9R_x5q6yTs",
+        "name": "Exotic scale practice (TG235)",
+        "duration": "2:53"
+      },
+      {
+        "id": "M8ORgZpxlEc",
+        "name": "Chord playing (TG235)",
+        "duration": "4:07"
+      }
     ]
   },
-  { "id": 2, "name": "Steve Vai", "image": "vai.jpg", "lessons": [] },
-  { "id": 3, "name": "Guthrie Govan", "image": "govan.jpg", "lessons": [] },
-  { "id": 4, "name": "Glenn Proudfoot", "image": "proudfoot.jpg", "lessons": [] }
+  {
+    "id": 2,
+    "name":
+    "Steve Vai",
+    "image": "vai.jpg",
+    "lessons": [
+      {
+        "id": "9-dOKmwSicw",
+        "name": "The World's Largest Online Guitar Lesson with Steve Vai",
+        "duration": "41:39"
+      },
+      {
+        "id": "T27krpospq4",
+        "name": "Gravity Storm",
+        "duration": "16:35"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Guthrie Govan",
+    "image": "govan.jpg",
+    "lessons": [
+      {
+        "id": "tELIgr96WcM",
+        "name": "Guthrie Govan String Bending Masterclass - Part One",
+        "duration": "10:04"
+      },
+      {
+        "id": "7081sfrSWVM",
+        "name": "Guthrie Govan String Bending Masterclass - Part Two",
+        "duration": "10:1"
+      },
+      {
+        "id": "nVzV55cl_9g",
+        "name": "Guthrie Govan String Bending Masterclass - Part Three",
+        "duration": "12:27"
+      },
+      {
+        "id": "rcM8oCAp7iI",
+        "name": "Guthrie Govan String Bending Masterclass - Part Four",
+        "duration": "18:29"
+      },
+      {
+        "id": "07YpdnQq2ck",
+        "name": "Guthrie Govan String Bending Masterclass - Part Five",
+        "duration": "14:43"
+      },
+      {
+        "id": "51OMFYGG-fs",
+        "name": "Guthrie Govan Alternate Picking Guitar Lesson",
+        "duration": "14:34"
+      },
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Glenn Proudfoot",
+    "image": "proudfoot.jpg",
+    "lessons": [
+      {
+        "id": "6dMVnvX6JHk",
+        "name": "A New Approach to the Blues Scale",
+        "duration": "6:01"
+      },
+      {
+        "id": "J1EyyGdA7eY",
+        "name": "Building Patterns in the Pentatonic Scale",
+        "duration": "6:34"
+      },
+      {
+        "id": "PsKBGaViYWo",
+        "name": "Alien Guitar Sounds",
+        "duration": "7:27"
+      },
+      {
+        "id": "Ao8hWeP1M_E",
+        "name": "A New Approach to Diminished-Seven Arpeggios",
+        "duration": "7:44"
+      }
+    ]
+  }
 ]
